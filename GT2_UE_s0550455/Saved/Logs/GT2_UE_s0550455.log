@@ -826,3 +826,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-21.46.59:141][219]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
 [2019.12.09-21.47.47:628][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
 [2019.12.09-21.47.51:990][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.09-21.56.46:353][604]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-21.56.55:475][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.09-21.56.55:652][631]LogSavePackage: Moving 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Saved/Minimal_Default_Auto183A484B4487588423AE5FD971FAE9151.tmp' to 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.12.09-21.56.55:662][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.210
+[2019.12.09-21.56.55:662][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2019.12.09-21.56.56:417][634]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AF07A105-4F2E-5C33-5E13-20B2752FEC07}
