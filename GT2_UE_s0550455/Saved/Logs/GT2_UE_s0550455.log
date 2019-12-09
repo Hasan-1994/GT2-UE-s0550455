@@ -832,3 +832,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-21.56.55:662][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.210
 [2019.12.09-21.56.55:662][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
 [2019.12.09-21.56.56:417][634]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AF07A105-4F2E-5C33-5E13-20B2752FEC07}
+[2019.12.09-22.10.51:634][269]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.10.53:445][376]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.10.54:554][376]LogSlate: Window 'New Level' being destroyed
+[2019.12.09-22.10.54:570][376]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.10.56:754][376]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-22.10.56:765][376]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-22.10.56:798][376]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.10.56:810][376]LightingResults: New page: Lighting Build
+[2019.12.09-22.10.56:814][376]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.09-22.10.56:820][376]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-22.10.56:820][376]MapCheck: New page: Map Check
+[2019.12.09-22.10.56:821][376]LightingResults: New page: Lighting Build
+[2019.12.09-22.10.56:849][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.09-22.10.56:886][376]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.09-22.10.56:901][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-22.10.56:927][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.09-22.10.56:934][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-22.10.56:935][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,167ms to complete.
+[2019.12.09-22.10.56:935][376]LogFileHelpers: Loading map 'Template_Default' took 0.178
+[2019.12.09-22.10.58:403][461]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.10.59:983][555]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-22.11.16:055][555]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.09-22.11.16:060][555]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.12.09-22.11.16:146][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.12.09-22.11.16:148][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.09-22.11.16:174][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.12.09-22.11.16:294][555]LogSavePackage: Moving 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Saved/NewMap0E638F924160D1C87227D19DAC0DA5E0.tmp' to 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Content/Map/NewMap.umap'
+[2019.12.09-22.11.16:328][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.09-22.11.16:348][555]LogSavePackage: Moving 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Saved/NewMap_BuiltData709DAF2F4F6A382EE4FC68B93B43A212.tmp' to 'D:/Development/Unity/GT2-UE-s0550455/GT2_UE_s0550455/Content/Map/NewMap_BuiltData.uasset'
+[2019.12.09-22.11.16:357][555]LogFileHelpers: Saving map 'NewMap' took 0.289
