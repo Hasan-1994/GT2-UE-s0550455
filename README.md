@@ -7,6 +7,10 @@ Ein mutliplayer Game, welches durch Tastatur und Maus bedient wird. Der Spieler 
 Linie Gegner ausschalten bzw. eliminieren können.
 Hierzu kommt, dass die Enemys sich in einem bestimmten Intervall und einem bestimmten Ort spawnen.
 
+# Inspiration
+The Walking Dead und auch andere Zombie Spiele
+
+
 # Spiel
 Da die Enemys die Player anfokusieren, sollte der Spieler in der Lage sein sich zu verteidigen. Hierzu hat der Spieler eine Waffe, in dem 
 Fall eine AR in der Hand, die abschießen kann. Hinzu kommt, dass der Spieler eine Erweiterung mit Granaten hat, welches Ebenfalls dazu dient
